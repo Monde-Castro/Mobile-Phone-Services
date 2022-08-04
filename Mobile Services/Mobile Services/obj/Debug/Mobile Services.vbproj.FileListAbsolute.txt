@@ -1,0 +1,10 @@
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Mobile Services\Mobile Services\bin\Debug\Mobile Services.exe.config
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Mobile Services\Mobile Services\bin\Debug\Mobile Services.exe
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Mobile Services\Mobile Services\bin\Debug\Mobile Services.pdb
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Mobile Services\Mobile Services\bin\Debug\Mobile Services.xml
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Mobile Services\Mobile Services\obj\Debug\Mobile_Services.frmMobileService.resources
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Mobile Services\Mobile Services\obj\Debug\Mobile_Services.Resources.resources
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Mobile Services\Mobile Services\obj\Debug\Mobile Services.vbproj.GenerateResource.Cache
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Mobile Services\Mobile Services\obj\Debug\Mobile Services.exe
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Mobile Services\Mobile Services\obj\Debug\Mobile Services.xml
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Mobile Services\Mobile Services\obj\Debug\Mobile Services.pdb
